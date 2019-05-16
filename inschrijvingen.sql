@@ -14,6 +14,13 @@ tussenvoegsel, voorletters, voornaam, geboortedatum ,postcode ,plaats
 (99987, 'darmsen', 'h', 'D', 'Diet','1992-05-26 00:00:00', '2219 LK', 'Katwijk','77.9', 140, 1, '2018-01-01'),
 (99986, 'marmsen', 'h', 'E', 'Eiet','1992-05-26 00:00:00', '2218 LK','Katwijk', '77.9', 140, 1, '2018-01-01');
 
+INSERT INTO klassen_studenten (klas_code, ov_nummer) VALUES
+('lo9e-amo1', 99088),
+('lo9e-amo2', 99988),
+('lo9e-amo3', 99987),
+('lo9e-amo4', 99986);
+
+
 
 
 
